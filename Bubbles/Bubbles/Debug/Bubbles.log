@@ -1,0 +1,17 @@
+﻿  Bubbles.cpp
+C:\Users\Inês\source\repos\Bubbles\Bubbles\Bubbles.cpp(38,56): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Inês\source\repos\Bubbles\Bubbles\Bubbles.cpp(68,35): warning C4474: 'sprintf_s' : too many arguments passed for format string
+C:\Users\Inês\source\repos\Bubbles\Bubbles\Bubbles.cpp(68,35): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\Inês\source\repos\Bubbles\Bubbles\Bubbles.cpp(69,35): warning C4474: 'sprintf_s' : too many arguments passed for format string
+C:\Users\Inês\source\repos\Bubbles\Bubbles\Bubbles.cpp(69,35): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\Inês\source\repos\Bubbles\Bubbles\Bubbles.cpp(70,35): warning C4474: 'sprintf_s' : too many arguments passed for format string
+C:\Users\Inês\source\repos\Bubbles\Bubbles\Bubbles.cpp(70,35): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\Inês\source\repos\Bubbles\Bubbles\Bubbles.cpp(71,35): warning C4474: 'sprintf_s' : too many arguments passed for format string
+C:\Users\Inês\source\repos\Bubbles\Bubbles\Bubbles.cpp(71,35): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\Inês\source\repos\Bubbles\Bubbles\Bubbles.cpp(72,35): warning C4474: 'sprintf_s' : too many arguments passed for format string
+C:\Users\Inês\source\repos\Bubbles\Bubbles\Bubbles.cpp(72,35): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\Inês\source\repos\Bubbles\Bubbles\Bubbles.cpp(73,35): warning C4474: 'sprintf_s' : too many arguments passed for format string
+C:\Users\Inês\source\repos\Bubbles\Bubbles\Bubbles.cpp(73,35): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\Inês\source\repos\Bubbles\Bubbles\Bubbles.cpp(159,21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Inês\source\repos\Bubbles\Bubbles\Bubbles.cpp(160,21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+opencv_world410d.lib(opencv_world410d.dll) : fatal error LNK1112: module machine type 'x64' conflicts with target machine type 'x86'
