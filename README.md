@@ -1,6 +1,6 @@
 # Project
 
-### Inês Rocha
+### Inês Rocha (up201606266)
 #### Computer Vision, Faculdade de Ciências (2019)
 
 My project consists of a game. Several circles appear in the screen that needs to disappear and with the help of a ball on top of a stick that the player has in his hand, we can pass through them and make them disappear.
