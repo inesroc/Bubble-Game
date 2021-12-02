@@ -1,8 +1,9 @@
-# Introduction
+# Project
 
-My project consists of a game.
+### Inês Rocha
+#### Computer Vision, Faculdade de Ciências (2019)
 
-Several circles appear in the screen that needs to disappear and with the help of a ball on top of a stick that the player has in his hand, we can pass through them and make them disappear.
+My project consists of a game. Several circles appear in the screen that needs to disappear and with the help of a ball on top of a stick that the player has in his hand, we can pass through them and make them disappear.
 It was used the program objectTrackingTutorial.cpp developed by Kyle Hounslow in 2013 for the base of the program, and for better tracking of the ball, it was used as an adaptation of the tracking algorithmic found in the article Simple Object Tracking With OpenCV by Adrian Rosebrock.
 
 # Calibration
